@@ -171,7 +171,11 @@ html[data-theme='dark']{
 .wrapper .gfg:hover .tooltip:before{
   background: #0b7d2a;
 }
-
+.wrapper .medium:hover span,
+.wrapper .medium:hover .tooltip,
+.wrapper .medium:hover .tooltip:before{
+  background: #030303;
+}
 /*Social icons*/
 
 :root {
