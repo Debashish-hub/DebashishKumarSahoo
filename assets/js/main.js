@@ -85,7 +85,7 @@ let footer = $(`
       <div class="footer-middle">
         <div class="container">
           <div class="col-md-12 col-sm-4">
-            <h4 class="text-center">Follow Me</h4>
+            <h4 class="text-center">Connect With Me</h4>
               <div class="social-icons text-center">
 
                     <a class="social-icon twitter" href="https://twitter.com/imdebashish_10" target="_blank" rel="author">

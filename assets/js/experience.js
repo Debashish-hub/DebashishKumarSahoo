@@ -3,14 +3,14 @@
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
+    title: "Wazirx ",
+    cardImage: "assets/images/experience-page/wrx.jpg",
+    description: "Wazirx Warrior",
+  },
+  {
     title: "VoluntHere",
     cardImage: "https://media-exp1.licdn.com/dms/image/C4D0BAQEGOXgetkVM2Q/company-logo_200_200/0/1606904688873?e=1628121600&v=beta&t=ucmLAt6j8V9fcJciraeF3dckBkm-9xrnivD5bIv6mnU",
     description: "Outreach Associate",
-  },
-  {
-    title: "AICRA",
-    cardImage: "https://pbs.twimg.com/profile_images/496182757286895616/OOH3jarn.png",
-    description: "Student Ambassador",
   },
   {
     title: "NSS",
