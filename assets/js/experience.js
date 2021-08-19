@@ -9,7 +9,7 @@ const volunteershipcards = [
   },
   {
     title: "VoluntHere",
-    cardImage: "https://media-exp1.licdn.com/dms/image/C4D0BAQEGOXgetkVM2Q/company-logo_200_200/0/1606904688873?e=1628121600&v=beta&t=ucmLAt6j8V9fcJciraeF3dckBkm-9xrnivD5bIv6mnU",
+    cardImage: "https://img1.wsimg.com/isteam/ip/c9ef595f-c690-4269-8c8c-d2e4c48ee238/VoluntHere_logo-removebg-preview.png/:/rs=w:400,cg:true,m",
     description: "Outreach Associate",
   },
   {
