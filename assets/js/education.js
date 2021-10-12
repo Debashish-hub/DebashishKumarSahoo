@@ -17,31 +17,31 @@ const moocscards = [
     cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://coursera.org/share/98d1d51e0b894d6dd1a7061cd0cfaf0d",
   },
-  {
-    title: "Machine Learning & Deep Learning",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/certificate/UC-95f8d190-cd31-4ec1-b751-33570b1d1d17/",
-  },
-  {
-    title: "Wordpress",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/certificate/UC-a4c4e7af-d420-487d-b1eb-71311ddbeb9c/",
-  },
-   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/gatm.png",
-    moocLink: "https://demo4.greyatom.com/certificates/GA-1HPHEJWWQ",
-  },
+  // {
+  //   title: "Machine Learning & Deep Learning",
+  //   cardImage: "assets/images/education-page/udemy.png",
+  //   moocLink: "https://www.udemy.com/certificate/UC-95f8d190-cd31-4ec1-b751-33570b1d1d17/",
+  // },
+  // {
+  //   title: "Wordpress",
+  //   cardImage: "assets/images/education-page/udemy.png",
+  //   moocLink: "https://www.udemy.com/certificate/UC-a4c4e7af-d420-487d-b1eb-71311ddbeb9c/",
+  // },
+  //  {
+  //   title: "Data Science",
+  //   cardImage: "assets/images/education-page/gatm.png",
+  //   moocLink: "https://demo4.greyatom.com/certificates/GA-1HPHEJWWQ",
+  // },
   {
     title: "Introduction to Cloud Computing",
     cardImage: "assets/images/education-page/udemy.png",
     moocLink: "https://www.udemy.com/certificate/UC-ac9b6cc7-2ab3-4cc2-ba0b-17f7b8e00c46/",
   },
-  {
-    title: "Django",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/certificate/UC-54ca1c69-a2ec-43fb-8628-8127fa5a0a82/",
-  },
+  // {
+  //   title: "Django",
+  //   cardImage: "assets/images/education-page/udemy.png",
+  //   moocLink: "https://www.udemy.com/certificate/UC-54ca1c69-a2ec-43fb-8628-8127fa5a0a82/",
+  // },
   {
     title: "Python",
     cardImage: "assets/images/education-page/udemy.png",
@@ -57,11 +57,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/udemy.png",
     moocLink: "https://www.udemy.com/certificate/UC-85294781-2343-4170-bd46-036441ae3946/",
   },
-  {
-    title: "Artificial Neural Network",
-    cardImage: "assets/images/education-page/udemy.png",
-    moocLink: "https://www.udemy.com/certificate/UC-35bb27a2-50c3-477f-89f1-8cb1c411b3f1/",
-  },
+  // {
+  //   title: "Artificial Neural Network",
+  //   cardImage: "assets/images/education-page/udemy.png",
+  //   moocLink: "https://www.udemy.com/certificate/UC-35bb27a2-50c3-477f-89f1-8cb1c411b3f1/",
+  // },
  
  
 ];
