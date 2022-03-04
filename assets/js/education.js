@@ -3,6 +3,16 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "iOS App using Swift 5",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://tm.udemy.com/certificate/UC-53ecd8d1-6c4d-4fee-862a-ae32f4760dd3/",
+  },
+  {
+    title: "Swift 5 Programming for Beginners",
+    cardImage: "assets/images/education-page/udemy.png",
+    moocLink: "https://tm.udemy.com/certificate/UC-5e0d9873-4d04-45f5-b90c-9d052b2f04ea/",
+  },
+  {
     title: "AI assistant with Python",
     cardImage: "assets/images/education-page/udemy.png",
     moocLink: "https://www.udemy.com/certificate/UC-5cdb84e9-5087-4a5f-bbf3-71f361ada2e7/",
